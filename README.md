@@ -1,4 +1,5 @@
 ### Hi there, I'm Pedro Guilherme R.V. Melo 👋
+Olá, sou estudade de Enenharia Aeronáutica, na Universidade Federal de Uberlândia.
 
 <!--
 **pedroguimelo/pedroguimelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
