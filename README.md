@@ -3,7 +3,7 @@
 <!--
 **pedroguimelo/pedroguimelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-° Olá, sou estudade de Enenharia Aeronáutica, na Universidade Federal de Uberlândia.
+Olá, sou estudade de Enenharia Aeronáutica, na Universidade Federal de Uberlândia.
 
 - 🌱 I’m currently learning:
  
