@@ -1,8 +1,6 @@
 ### Hi there, I'm Pedro Guilherme R.V. Melo 👋
-- Sou estudade de Enenharia Aeronáutica, na Universidade Federal de Uberlândia.
-- Sou membro da EPTA - Equipe de Propulsão e Tecnologia Aeroespacial 🚀
-
-- ⚡ Fun fact: Gosto muito de One Piece.
+##- Sou membro da EPTA - Equipe de Propulsão e Tecnologia Aeroespacial 🚀
+##- ⚡ Fun fact: Gosto muito de One Piece.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
