@@ -1,10 +1,12 @@
 ### Hi there, I'm Pedro Guilherme R.V. Melo 👋
-Olá, sou estudade de Enenharia Aeronáutica, na Universidade Federal de Uberlândia.
+Sou estudade de Enenharia Aeronáutica, na Universidade Federal de Uberlândia.
 
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[instagram]: https://www.instagram.com/pedrogui.melo
 <!--
 **pedroguimelo/pedroguimelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Olá, sou estudade de Enenharia Aeronáutica, na Universidade Federal de Uberlândia.
+
 
 - 🌱 I’m currently learning:
  
